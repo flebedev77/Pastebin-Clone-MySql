@@ -1,0 +1,19 @@
+main {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+input, textarea {
+  width: 100%;
+}
+
+textarea {
+  resize: none;
+  height: 300px;
+}
